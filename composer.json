@@ -1,5 +1,5 @@
 {
-    "name": "davidjegat/assetic-minifier-bundle",
+    "name": "uran1980/assetic-minifier-bundle",
     "type": "symfony-bundle",
     "description": "A complete minifier in pure PHP for your assetic. Using Douglas Crockford JSMin and Tubal Martin CssMin",
     "keywords": ["Assetic", "Minify"],
@@ -28,7 +28,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.2",
-        "symfony/framework-bundle": ">=2.1,<2.3-dev",
+        "symfony/framework-bundle": ">=2.1,<2.4-dev",
         "kriswallsmith/assetic": "1.*"
     },
     "autoload": {
